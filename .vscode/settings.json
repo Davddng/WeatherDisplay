@@ -1,0 +1,17 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "esp_lcd_panel_ops.h": "c",
+        "touchlib.h": "c",
+        "sd_mmc.h": "c",
+        "sstream": "c",
+        "time.h": "c",
+        "wifi.h": "c",
+        "random": "c",
+        "ui.h": "c",
+        "arduinojson.h": "c",
+        "lv_arc.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerPath": "C:/Users/David/.platformio/packages/toolchain-xtensa-esp32s3/bin/xtensa-esp32s3-elf-gcc.exe"
+}
